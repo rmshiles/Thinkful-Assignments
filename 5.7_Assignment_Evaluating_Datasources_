@@ -1,0 +1,18 @@
+Drill Chapter 7 Evaluating Data Sources 
+
+In each of the scenarios, find possible shortcomings of the theoretical or actual data sources to answer the given question. What could be done to either adjust the analysis or reframe the 
+question so that you can answer it accurately?
+
+Theoretical Data Source: Amsterdam availability data scraped from AirBnB on December 24th. 
+Question: What are the popular neighborhoods in Amsterdam?
+Response: The question could be reframed, What neighborhoods in Amsterdam are popular with Air BNB on Christmas Eve. The Data could also be expanded to include hotel, retail and restaurant data on a greater number of days. 
+
+
+Theoretical Data Source: Mental health services use on September 12, 2001 in San Francisco, CA and New York City, NY.
+Question: How do patterns of mental health service use vary between cities?
+Response: the question could be reframed to ask, How where Mental Health Services impacted the day after 9/11 in New York in comparison to other cities not directly impacted. The data could also be expanded to include a larger number of dates and possibly more cities. The use of dates on and around 9/11 may result in a large number of outliers.
+
+
+Actual Data Source: Armenian Pub Survey.
+Question: What are the most common reasons Armenians visit local pubs?
+Response: The question could be reframed to ask are Armenian students (16-23) more likely to go to the pub to be with friends or for parties and special events.  There are quite a few problems with this data set in that it seems to exclude Armenians older than 23 this may be due to the fact that the survey was given online and almost has almost entirely been administered to students. There are also some issues with the data collected on frequency. It also seems to survey students who mostly live in the Capital. 
