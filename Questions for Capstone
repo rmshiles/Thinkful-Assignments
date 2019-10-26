@@ -1,0 +1,48 @@
+
+
+Deep Solar 
+
+Question1) 
+Nationaly, what locations and populations have the highest per capita usage of solar power for both residential and non?
+
+Proposed resolution)
+Using Basemaps and matplotlib create a map of the United States with ploted points for each solar installation breaking it into residential and nonresidential and scaling the point size relative to the area size of the solar array. 
+Further explore and zoom in on areas of interest and on areas that are to densly ploted to comprhend. 
+
+Question 2)
+Nationaly, what effect do tax incentives, electricity prices, weather, sun exposure, fossil fuel prices, net metering, and rebates have on the deployment of solar technology for both residential and non residential situations?  
+     
+Proposed Resolution)      
+often laws areound solar differ by state in regards to net metering, tax incentives, and rebates, here I intend to group data by state and look at the state as a whole for per capita solar usage. this will require bringing in census data because population data is specific to local areas. 
+     
+Question 3)   
+Locally, what effect do age, local income levels, education levels, and political persuasions have on solar adoption? 
+
+Proposed Resolution)
+examine solar installations in relation to age, income, education level, and plotical persuasion. create plots for multivariable analysis  
+
+Question 4) 
+     What effect does weather, sun exposure, seasonal temperature, anual heating days have on solar adoption and is it different for residential and non residential 
+     
+     
+     
+     
+     
+Proposed Questions and potential future Reaserch 
+
+Reasearch solar pannel as Enviromental status item  
+it may be possible to understand further, the value of solar pannels as an environmental status item. If some type of time stamped data related to installation could be added to the deep solar data set it may be possible to understand in greater detail the effect of peers(ie neighbors) in changing the subjective norm of neighbor hoods and increasing the addoption of residential solar. 
+
+https://www.sciencedirect.com/science/article/pii/S0960148114006326
+
+The value of environmental status signaling
+Author  Michael S.Delgado et al 
+https://www.sciencedirect.com/science/article/pii/S0921800915000075
+
+https://www.cell.com/joule/fulltext/S2542-4351(18)30570-1
+
+if a dataset on hourly power consumption by location(zip code or county) was made availible this might make it possible to understand how local weather impacts both power consumption and solar power production. this may be usefull in determining to what extent solar power can be used to power the grid before some sort of energy storage is nessecary. 
+
+
+     
+     
