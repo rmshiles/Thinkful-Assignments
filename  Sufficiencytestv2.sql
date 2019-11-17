@@ -34,7 +34,6 @@ WHERE year = 2000
 ORDER BY avg_math_4_score
 LIMIT 10;
 
-
 --6. 
 SELECT ROUND(AVG(avg_math_4_score),2 )AS avg_state_math 
 FROM naep
@@ -43,10 +42,7 @@ WHERE year = 2000;
 --7. 
 SELECT state AS below_average_states_y2000
 FROM naep
-WHERE year = 2000  
-GROUP BY state
-HAVING AVG(avg_math_4_score) < (SELECT AVG(avg_math_4_score) FROM naep WHERE year = 2000)
-ORDER BY state;
+WHERE year = 2000 AND  avg_math_4_score < (SELECT AVG(avg_math_4_score) FROM naep WHERE year = 2000)
 
 --8.
 SELECT state AS scores_missing_y2000 
